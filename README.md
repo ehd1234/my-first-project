@@ -5,4 +5,7 @@ Welcome to my first coding project! I am just starting my journey in learning ho
 ## About
 This is where I'll be experimenting with code and building my programming skills. Stay tuned for updates as I continue to learn and grow!
 
+## Favorite Programming Language
+JavaScript is my favorite programming language! I love its versatility and how it can be used for both front-end and back-end development.
+
 Happy coding! 🚀 
